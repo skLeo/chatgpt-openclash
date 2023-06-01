@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,poe.com
 #add bard.google.com
 DOMAIN-SUFFIX,bard.google.com
+#add sentry.io
+DOMAIN-SUFFIX,sentry.io
